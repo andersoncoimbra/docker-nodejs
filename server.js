@@ -1,4 +1,5 @@
 'use strict';
+//var consulta 	= require('./consultasql.js');
 
 const express = require('express');
 

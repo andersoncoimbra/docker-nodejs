@@ -5,10 +5,12 @@
     "author": "Anderson Coimbra",
     "main": "server.js",
     "scripts": {
-      "start": "node server.js"
+        "start": "node server.js"
     },
     "dependencies": {
-      "express": "^4.16.1",
-      "nodemon": "2.0.15"
+        "express": "^4.16.1",
+        "mysql": "2.15.0",
+        "nodemon": "2.0.15",
+        "ws": "^8.5.0"
     }
-  }
+}
